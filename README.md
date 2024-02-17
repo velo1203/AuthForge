@@ -1,10 +1,16 @@
-# authForge
+![Logo](https://github.com/velo1203/AuthForge/raw/main/AuthForge.png)
+
+### BETA VERSION
 
 Inspired by `Google's Zanzibar system`, the idea is to develop a third-party library that simplifies backend management of user information, moving away from the repetitive task of creating user-related schemas and integrating `JWT (JSON Web Tokens)` and authorization logic with each implementation. The library aims to provide easy-to-use methods for handling user JWT functionalities and permission checks, enabling developers to efficiently manage user authentication and authorization without the need to repeatedly code these features from scratch. This approach seeks to streamline backend development processes, focusing on reusability and ease of integration in various projects.
 
 # Developer Comments!
 
 Thank you for using my immature library. I hope you'll visit my [GitHub](https://github.com/velo1203/AuthForge) and share your feedback and information with me, I'll do my best to incorporate it. Thank you.
+
+-   Npm: [AuthForge](https://www.npmjs.com/package/authforge)
+
+-   Github : [AuthForge](https://github.com/velo1203/AuthForge)
 
 # Installation
 
