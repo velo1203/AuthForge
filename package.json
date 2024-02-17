@@ -1,0 +1,26 @@
+{
+    "name": "authforge",
+    "version": "1.0.0",
+    "description": "This is a library that will easily handle the hassle of user login and membership registration every time.",
+    "main": "core/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "backend",
+        "auth",
+        "jwt",
+        "sqlite3",
+        "bcrypt",
+        "bcryptjs",
+        "nodejs"
+    ],
+    "author": "devho",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.1.1",
+        "bcryptjs": "^2.4.3",
+        "jsonwebtoken": "^9.0.2",
+        "sqlite3": "^5.1.7"
+    }
+}

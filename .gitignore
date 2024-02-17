@@ -1,0 +1,36 @@
+node_modules/
+
+# 로그 파일
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# 런타임 데이터
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# 디렉토리에 생성된 OS X 메타데이터 파일
+.DS_Store
+
+# 임시 파일들
+*.temp
+*.tmp
+
+# 로컬 환경 설정 파일
+.env
+.env.local
+
+# IDE 설정 파일
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# 빌드 출력 디렉토리
+/dist
+/build
+
+# 테스트 파일
+/coverage
